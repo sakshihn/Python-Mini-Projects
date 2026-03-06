@@ -79,28 +79,24 @@ cd python-mini-projects
 ```
 python project_name.py
 ```
-Example:
-
-python budget_calculator.py
-📚 What I’m Learning
+---
 
 Through these mini projects I am improving:
 
-🔹 Python fundamentals
+🔹 Python fundamentals 
 🔹 Logic building
 🔹 Writing clean code
 🔹 Git & GitHub usage
 🔹 Building developer portfolios
 
+---
 👩‍💻 Author
 
  Sakshi H N
 
-🎓 Engineering Student (Data Science)
-💻 AI & Data Science Enthusiast
-🌱 Learning Python, Machine Learning & Development
+🎓 Final year Data Science Student
 
+---
 ⭐ Support
 
 If you like this repository, consider starring ⭐ it.
-It motivates me to keep building more projects.
