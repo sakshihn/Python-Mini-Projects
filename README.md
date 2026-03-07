@@ -32,8 +32,8 @@ python-mini-projects
 │ ├── planner.py
 │ └── README.md
 │
-├── simple-calculator
-│ ├── calculator.py
+├── Number Analyzer
+│ ├── analyzer.py
 │ └── README.md
 │
 ├── number-guessing-game
