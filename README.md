@@ -36,8 +36,8 @@ python-mini-projects
 │ ├── analyzer.py
 │ └── README.md
 │
-├── number-guessing-game
-│ ├── guessing_game.py
+├── Text Frequency Analyzer
+│ ├── analyzer.py
 │ └── README.md
 │
 └── more-projects-coming-soon
@@ -49,9 +49,9 @@ python-mini-projects
 
 | Project | Description |
 |---------|-------------|
-| 💰 Budget Calculator | Calculates monthly expenses for hostel students |
-| 🧮 Simple Calculator | Performs basic arithmetic operations |
-| 🎲 Number Guessing Game | A fun Python game where the user guesses a random number |
+| 💰 Budget Budget Planner | Calculates monthly expenses for hostel students |
+| 🧮 Number Analyzer | Performs basic arithmetic operations |
+| 🎲 Text Frequency Analyzer | It analyzes a piece of text and gives the count of each word |
 | 📊 More Projects Coming Soon | This repository will continue growing |
 
 ---
